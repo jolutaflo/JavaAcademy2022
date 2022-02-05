@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Exercises-JavaAcademy2022.iml" filepath="$PROJECT_DIR$/.idea/Exercises-JavaAcademy2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challengetopic1/challengetopic1.iml" filepath="$PROJECT_DIR$/challengetopic1/challengetopic1.iml" />
       <module fileurl="file://$PROJECT_DIR$/challengetopic0/topic0.iml" filepath="$PROJECT_DIR$/challengetopic0/topic0.iml" />
     </modules>
   </component>
