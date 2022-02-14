@@ -1,0 +1,1 @@
+Para una futura implementacion con nuevas impresoras, solo se deben agregar a la List de printerList, esta lista es inyectada mediante inyeccion de dependencias en el constructor de PrintingService
