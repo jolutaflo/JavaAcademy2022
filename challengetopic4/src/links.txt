@@ -1,0 +1,7 @@
+getting-started: 
+    https://hub.docker.com/repository/docker/joseltarazonaf/getting-started
+    docker push joseltarazonaf/getting-started:tagname
+
+mysql:
+    https://hub.docker.com/repository/docker/joseltarazonaf/mysql
+    docker push joseltarazonaf/mysql:tagname
